@@ -1,1 +1,9 @@
-/Natural Language Processing with Transformers & Huggingface.pdf
+.vscode
+.env
+/Books
+/myenv
+/Data
+/Tokenizers
+/Models
+/Text Classification/distilbert-base-uncased-finetuned-emotion/
+/extra.ipynb

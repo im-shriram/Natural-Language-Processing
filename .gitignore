@@ -6,4 +6,5 @@
 /Tokenizers
 /Models
 /Text Classification/distilbert-base-uncased-finetuned-emotion/
-/extra.ipynb
+*data
+extra.ipynb
